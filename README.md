@@ -1,4 +1,23 @@
-# Deployment and DevOps for MERN Applications
+
+<!-- Backend Deployment  -->
+<!-- deployed using render -->
+https://*****************.onrender.com
+
+<!-- Frontend Deployment  -->
+<!-- deployed using vercel -->
+mediconnect-client-git-main-emmyegons-projects.vercel.app
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Deployment and DevOps for MERN Applications
 
 This assignment focuses on deploying a full MERN stack application to production, implementing CI/CD pipelines, and setting up monitoring for your application.
 
@@ -74,4 +93,4 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Render Documentation](https://render.com/docs)
 - [Railway Documentation](https://docs.railway.app/)
 - [Vercel Documentation](https://vercel.com/docs)
-- [Netlify Documentation](https://docs.netlify.com/) 
+- [Netlify Documentation](https://docs.netlify.com/)  -->
